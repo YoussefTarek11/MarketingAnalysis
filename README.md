@@ -5,3 +5,4 @@ and Power BI for building an interactive dashboard. The final result is a clear 
 
 ![image alt](https://github.com/YoussefTarek11/MarketingAnalysis/blob/43e274440e87011942094837334c4837c7662775/Market-Analysis-For-A-Business-Plan.png)
 
+To explore the dashboard [here](https://project.novypro.com/hXAkYM)
